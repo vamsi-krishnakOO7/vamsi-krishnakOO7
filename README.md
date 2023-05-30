@@ -6,7 +6,7 @@
 
 - 📚 Currently pursuing **Computer Science and Engineering**
 
-- 🌱 I’m currently interested in **Bootstrap, TypeScript and Image Processing**
+- 🌱 I’m currently interested in **TypeScript and Webpack**
 
 - 📫 Connect with me on **vamsikrishna2003.k@gmail.com**
 
