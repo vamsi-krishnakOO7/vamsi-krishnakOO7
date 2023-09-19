@@ -1,5 +1,8 @@
+![logo](https://github.com/vamsi-krishnakOO7/vamsi-krishnakOO7/blob/main/Git_Banner_KVK.png)
 <h1 align="center">Hello There ✌, I'm K. Vamsi Krishna</h1>
 <h3 align="center">An aspiring UX Designer with a Niche for Frontend Development who seeks to build a career using his skills so that he can grow and connect with like-minded individuals.</h3>
+
+<img align="right" alt="coffee" width="400" src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif">
 
 - 📚 Currently pursuing **Computer Science and Engineering**
 
