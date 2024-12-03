@@ -1,8 +1,5 @@
-![logo](https://github.com/vamsi-krishnakOO7/vamsi-krishnakOO7/blob/main/github-header-image.png)
-<h1 align="center">Hii ✌, I'm Vamsi</h1>
+<h1 align="center">Hello There ✌, I'm Vamsi Krishna</h1>
 <h3 align="center">An aspiring Analytics Specialist with a Niche for Data Visualization and Data Analytics who aims to tell stories through Data and build a career using his skills.</h3>
-
-<img align="right" alt="coffee" width="400" src="ttps://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif">
 
 - 🎓 Master's Degree Loading...
 
