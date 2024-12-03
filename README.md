@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![logo](./your-header-image-name.png)
 <h1 align="center">Hii ✌, I'm Vamsi</h1>
 <h3 align="center">An aspiring Analytics Specialist with a Niche for Data Visualization and Data Analytics who aims to tell stories through Data and build a career using his skills.</h3>
 
