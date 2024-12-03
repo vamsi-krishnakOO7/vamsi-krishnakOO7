@@ -2,11 +2,11 @@
 <h1 align="center">Hii ✌, I'm Vamsi</h1>
 <h3 align="center">An aspiring Analytics Specialist with a Niche for Data Visualization and Data Analytics who aims to tell stories through Data and build a career using his skills.</h3>
 
-<img align="right" alt="coffee" width="400" src="https://dribbble.com/shots/24803693-Visualizing-Python-3D-Illustration-of-a-Coding-Powerhouse">
+<img align="right" alt="coffee" width="400" src="ttps://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif">
 
 - 🎓 Master's Degree Loading...
 
-- 📚 Bachelor's Degree in **Computer Science and Engineering**
+- 📚 Bachelor's Degree in **Computer Science and Engineering** from BML Munjal University
 
 - 🌱 I’m currently interested in **Data Science, Data Analytics, Data Visualization and Machine Learning**
 
