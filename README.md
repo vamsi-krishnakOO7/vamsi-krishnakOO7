@@ -1,5 +1,5 @@
 <h1 align="center">Hello There ✌, I'm Vamsi Krishna</h1>
-<h3 align="center">A First-Year <b>MBA</b> Candidate at <b>Shiv Nadar University, Greater Noida</b>with an interest in Data Analytics who aims to tell stories through Data and build a career using his skills.</h3>
+<h3 align="center">A First-Year <b>MBA</b> Candidate at <b>Shiv Nadar University, Greater Noida</b>, who is interested in Data Analytics. I aim to tell stories through Data and build a career using his skills.</h3>
 
 # 💫 About Me:
 🎓 First Year MBA Candidate @ Shiv Nadar University, Greater Noida<br><br>📚 Bachelor's Degree in Computer Science and Engineering from BML Munjal University<br><br>🌱 I’m currently interested in Data Science, Data Analytics, Data Visualization and Marketing<br><br>📫 Connect with me on vamsikrishna2003.k@gmail.com
